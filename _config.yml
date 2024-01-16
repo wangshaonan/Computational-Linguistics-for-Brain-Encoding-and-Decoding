@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Computational Linguistics for Brain Encoding and Decoding
+description: Recent years have seen significant progress in Computational Linguistics (CL), exemplified by large language models excelling in diverse natural language processing tasks. These advancements underscore their potential in elucidating brain language processing, particularly in terms of brain encoding and decoding.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://wangshaonan.github.io/Computational-Linguistics-for-Brain-Encoding-and-Decoding
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
