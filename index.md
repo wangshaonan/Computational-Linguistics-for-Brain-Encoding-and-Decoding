@@ -1,5 +1,15 @@
 ---
-title: Home
+title: Basic information
+layout: home
+---
+
+Computational Linguistics for Brain Encoding and Decoding
+UCAS-AI, Summer 2024
+
+This is an 
+
+---
+title: Schedule
 layout: home
 ---
 
