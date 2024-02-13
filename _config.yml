@@ -6,3 +6,21 @@ url: https://wangshaonan.github.io/Computational-Linguistics-for-Brain-Encoding-
 
 #aux_links:
 #  Template Repository: https://github.com/wangshaonan/Computational-Linguistics-for-Brain-Encoding-and-Decoding
+
+collections:
+  modules:
+
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: [ ]
+  blanklines: false
+  profile: false
