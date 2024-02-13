@@ -1,8 +1,8 @@
-title: CL for Brain Encoding and Decoding
+title: UCAS/CLforBrain
 description: Recent years have seen significant progress in Computational Linguistics (CL), exemplified by large language models excelling in diverse natural language processing tasks. These advancements underscore their potential in elucidating brain language processing, particularly in terms of brain encoding and decoding.
 theme: just-the-docs
 
 url: https://wangshaonan.github.io/Computational-Linguistics-for-Brain-Encoding-and-Decoding
 
-aux_links:
-  Template Repository: https://github.com/wangshaonan/Computational-Linguistics-for-Brain-Encoding-and-Decoding
+#aux_links:
+#  Template Repository: https://github.com/wangshaonan/Computational-Linguistics-for-Brain-Encoding-and-Decoding
