@@ -1,6 +1,8 @@
 ---
 title: Basic information
 layout: home
+title: Schedule and Readings
+layout: home
 ---
 
 Computational Linguistics for Brain Encoding and Decoding
