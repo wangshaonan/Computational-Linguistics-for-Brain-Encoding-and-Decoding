@@ -13,6 +13,6 @@ Lecture
 : [Slides](Link: https://mail.cstnet.cn/coremail/XT5/jsp/download.jsp?share_link=4D1A2106E043477880E4132907FBA6A6&uid=wangshaonan2013%40ia.ac.cn)(Code: NDc2), 
 
 Reading
-: **Notes**{: .label .label-yellow }
+:
 [Neural Bases of Language with Liina Pylkkanen](https://www.youtube.com/channel/UCBbO6HEym_YC9yyt2rNYiEA)
 
