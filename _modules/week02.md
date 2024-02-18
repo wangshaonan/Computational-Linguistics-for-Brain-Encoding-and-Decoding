@@ -13,9 +13,11 @@ Lecture
 : [Slides](), 
 
 Reading
-: **Notes**{: .label .label-yellow }
+:
 [topic model](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)(Latent Dirichlet Allocation)
+
 [word embedding](https://arxiv.org/abs/1301.3781)
 (Efficient Estimation of Word Representations in Vector Space)
+
 [language model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)(A Neural Probabilistic Language Model)
 
