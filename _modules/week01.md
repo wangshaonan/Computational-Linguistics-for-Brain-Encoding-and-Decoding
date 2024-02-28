@@ -15,5 +15,6 @@ Lecture
 Reading
 :
 [语言认知和语言计算](https://nlpr.ia.ac.cn/cip/ZongPublications/2022/2022%E7%8E%8B%E5%B0%91%E6%A5%A0-%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6.pdf)
+
 [Neural Bases of Language with Liina Pylkkanen](https://www.youtube.com/channel/UCBbO6HEym_YC9yyt2rNYiEA)
 
