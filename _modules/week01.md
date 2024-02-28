@@ -10,7 +10,7 @@ Topics
 : Language
 
 Lecture
-: [Slides](https://pan.baidu.com/s/1iZSMwc2CrHNoecYG9eZi6w)(Code: 6i8t), 
+: [Slides](https://pan.baidu.com/s/1486fLUU6beO3fEgJWhzhxA)(Code: 7vq3), 
 
 Reading
 :
