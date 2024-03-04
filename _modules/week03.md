@@ -7,7 +7,7 @@ title: Week 3, Mar. 14
 We will introduce the concept of brain encoding, generalized linear model (GLM), etc. We will learn how to deal with neuroimaging data and implement a simple brain encoding system.
 
 Topics
-: Language
+: Statistical method, GLM, brain encoding
 
 Lecture
 : [Slides](), 
