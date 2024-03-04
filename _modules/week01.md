@@ -6,9 +6,6 @@ title: Week 1, Feb. 29
 
 We will introduce the concepts of language, brain, deficit-lesion, neuroimaging, etc. We will learn about what language/the human brain is, how to study brain language processing, and what have we known about brain language processing so far.
 
-Topics
-: Language
-
 Lecture
 : [Slides](https://pan.baidu.com/s/1486fLUU6beO3fEgJWhzhxA)(Code: 7vq3), 
 
