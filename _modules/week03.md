@@ -9,6 +9,9 @@ We will introduce the concept of brain encoding, generalized linear model (GLM),
 Lecture
 : [Slides](https://pan.baidu.com/s/1P9zTe0-Q0I_6qHQrV-ZXUQ)(Code: 39ht), 
 
+Coding exercise
+: [codes&data](https://drive.google.com/drive/folders/1Afqy05nZC6oNtxmXwgEqEM85lahFHyo3?usp=drive_link)
+
 Reading
 :
 [Generalized linear model]([https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/Statistics/04_Stats_General_Linear_Model.html)https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/Statistics/04_Stats_General_Linear_Model.html)
