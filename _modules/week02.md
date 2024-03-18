@@ -9,6 +9,9 @@ We will introduce the concept of grammar, embeddings, language models, etc. We w
 Lecture
 : [Slides](https://pan.baidu.com/s/12BMWGm4NqGNLCA5e9YQNxw)(Code: nhcj), 
 
+Coding exercise
+: [codes&data](https://drive.google.com/drive/folders/1jdUhkn4oHA5IHF1SkYvfBceXYHP20w_7?usp=drive_link)
+
 Reading
 :
 [文本向量表示方法研究-博士论文-王少楠](http://ir.ia.ac.cn/handle/173211/20955?mode=full&submit_simple=Show+full+item+record)
