@@ -9,7 +9,7 @@ We will introduce the concept of ridge regression, permutation tests, t-tests, e
 Lecture
 : [Slides](https://drive.google.com/file/d/1_q8gWhtqsu1XrZqknm5BLA4LVbdO2snO/view?usp=sharing), 
 
-Coding exercise[student]
+Coding exercise-student
 : [codes&data](https://drive.google.com/drive/folders/1OwMAeuMsBmr0MfGGovjv-mHecqhUk7eC?usp=sharing)
 
 Reading
