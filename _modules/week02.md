@@ -7,7 +7,7 @@ title: Week 2, Mar. 7
 We will introduce the concept of grammar, embeddings, language models, etc. We will learn about what is machine language processing/understanding and how to represent the meaning/syntax of text.
 
 Lecture
-: [Slides](https://pan.baidu.com/s/12BMWGm4NqGNLCA5e9YQNxw)(Code: nhcj), 
+: [Slides](https://drive.google.com/file/d/1DefI0yv1pDM1eRTiks2_vfXjINMbRrpB/view?usp=sharing), 
 
 Coding exercise
 : [codes&data](https://drive.google.com/drive/folders/1jdUhkn4oHA5IHF1SkYvfBceXYHP20w_7?usp=drive_link)
