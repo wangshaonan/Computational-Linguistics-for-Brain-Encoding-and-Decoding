@@ -12,6 +12,9 @@ Lecture
 Coding exercise-student
 : [codes&data](https://drive.google.com/drive/folders/1OwMAeuMsBmr0MfGGovjv-mHecqhUk7eC?usp=sharing)
 
+Coding full-version
+: [codes&data](https://drive.google.com/drive/folders/1u6C4sbc-_dEP7Ekx7KydxzNVPONtpB3k?usp=sharing)
+
 Reading
 :
 [Experimental papers on brain encoding models](https://aclanthology.org/2022.lrec-1.687/)(How Does the Experimental Setting Affect the Conclusions of Neural Encoding Models?)
