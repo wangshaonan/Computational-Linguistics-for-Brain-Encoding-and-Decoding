@@ -4,7 +4,7 @@ title: Week 6, Apr. 11
 
 ### Decoding words from brain activation
 
-We will introduce the concept of language model, representational similarity analysis(RSA), etc. We will learn how to use RSA to interpret the meaning encoded in models and brain activation data and we will also learn different kinds of brain visualization tools. 
+We will introduce the concept of Multi-voxel pattern analysis(MVPA) and time-series decoding, etc. We will learn the characteristics of MEG and EEG data, and build a word decoding model using MVPA methd. 
 
 Lecture
 : [Slides](), 
