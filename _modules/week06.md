@@ -4,7 +4,7 @@ title: Week 6, Apr. 11
 
 ### Decoding words from brain activation
 
-We will introduce the concept of Multi-voxel pattern analysis(MVPA) and time-series decoding, etc. We will learn the characteristics of MEG and EEG data, and build a word decoding model using MVPA methd. 
+We will introduce the concept of Multi-voxel pattern analysis(MVPA) and time-series decoding, etc. We will learn the characteristics of MEG and EEG data, and build a word decoding model using MVPA method. 
 
 Lecture
 : [Slides](), 
