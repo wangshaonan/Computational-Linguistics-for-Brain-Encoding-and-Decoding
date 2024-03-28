@@ -14,6 +14,9 @@ Lecture
 Coding exercise-student
 : [codes&data](https://drive.google.com/drive/folders/1iNI-Y_p-1zG4fAJ3gyFbS_wkamcp1lCs?usp=sharing)
 
+Coding exercise :
+[codes&data](https://drive.google.com/drive/folders/1eUOuEfpQwqLrswDkoyXHrXVvPOKQm38T?usp=sharing)
+
 Reading
 :
 [GPT](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)(Attention is all you need)
