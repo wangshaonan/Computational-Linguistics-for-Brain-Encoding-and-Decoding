@@ -14,8 +14,8 @@ Lecture
 Coding exercise-student
 : [codes&data](https://drive.google.com/drive/folders/1iNI-Y_p-1zG4fAJ3gyFbS_wkamcp1lCs?usp=sharing)
 
-Coding exercise :
-[codes&data](https://drive.google.com/drive/folders/1eUOuEfpQwqLrswDkoyXHrXVvPOKQm38T?usp=sharing)
+Coding full-version
+: [codes&data](https://drive.google.com/drive/folders/1eUOuEfpQwqLrswDkoyXHrXVvPOKQm38T?usp=sharing)
 
 Reading
 :
