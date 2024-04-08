@@ -4,7 +4,9 @@ layout: default
 nav_order: 3
 ---
 
-# Candidate projects for homework (https://drive.google.com/file/d/1WFbraNYMMThiKM901G35Q4lNrj9miT4j/view?usp=sharing) 
+# Candidate projects for homework 
+
+[Download file with more content](https://drive.google.com/file/d/1WFbraNYMMThiKM901G35Q4lNrj9miT4j/view?usp=sharing) 
 
 Project 1: How nouns/verbs are represented in the brain? differences?
 
