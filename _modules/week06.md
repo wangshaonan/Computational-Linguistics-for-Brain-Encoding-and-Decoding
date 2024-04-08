@@ -7,10 +7,13 @@ title: Week 6, Apr. 11
 We will introduce the concept of Multi-voxel pattern analysis(MVPA) and time-series decoding, etc. We will learn the characteristics of MEG and EEG data, and build a word decoding model using the MVPA method. 
 
 Lecture
-: [Slides](), 
+: [Slides](https://drive.google.com/file/d/1nknmmoupE0-619pdTzsGkbge3khe9_Ny/view?usp=sharing), 
 
 Coding exercise-student
-: [codes&data]()
+: [codes&data](https://drive.google.com/drive/folders/1D2_5P_-jxhVWAL_lB1MzVxFllztNiCvu?usp=sharing)
+
+Coding full-version 
+: [code&data](https://drive.google.com/drive/folders/1WV4ECoir7dZUWk2NRtqOGrcmhmtxJX5S?usp=sharing)
 
 Reading
 :
