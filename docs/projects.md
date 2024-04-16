@@ -8,6 +8,10 @@ nav_order: 3
 
 [Download file with more content](https://drive.google.com/file/d/1WFbraNYMMThiKM901G35Q4lNrj9miT4j/view?usp=sharing) 
 
+# Project code template
+[fMRI encoding with text representations](https://drive.google.com/drive/folders/1LgAP0lZdkap-pPpPRVeslynWXa6Lq0za?usp=sharing)
+[fMRI decoding with text representations](https://drive.google.com/drive/folders/1LgAP0lZdkap-pPpPRVeslynWXa6Lq0za?usp=sharing)
+
 Project 1: How nouns/verbs are represented in the brain? differences?
 
   This project aims to explore how nouns and verbs are represented differently within the brain. We will utilize a neural encoding approach, employing word embeddings for nouns and verbs as inputs. The goal is to determine their correlation with functional magnetic resonance imaging (fMRI) data, revealing the distinct neural signatures of these grammatical categories.
