@@ -10,6 +10,7 @@ nav_order: 3
 
 ## Project code template
 [fMRI encoding with text representations](https://drive.google.com/drive/folders/1LgAP0lZdkap-pPpPRVeslynWXa6Lq0za?usp=sharing)
+
 [fMRI decoding with text representations](https://drive.google.com/drive/folders/1LgAP0lZdkap-pPpPRVeslynWXa6Lq0za?usp=sharing)
 
 ### Project 1: How nouns/verbs are represented in the brain? differences?
