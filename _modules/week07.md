@@ -16,4 +16,4 @@ Reading
 :
 [Neural decoding](https://www.nature.com/articles/s41593-023-01304-9)(Semantic reconstruction of continuous language from non-invasive brain recordings)
 
-[Neural decoding]([https://www.sciencedirect.com/science/article/pii/S1053811923004056](https://arxiv.org/abs/2403.17516))(MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities)
+[Neural decoding](https://arxiv.org/abs/2403.17516)(MapGuide: A Simple yet Effective Method to Reconstruct Continuous Language from Brain Activities)
