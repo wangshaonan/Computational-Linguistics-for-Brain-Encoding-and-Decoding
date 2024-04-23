@@ -7,10 +7,10 @@ title: Week 7, Apr. 25
 We will introduce the concepts of word rate and beam search, among others. Additionally, we will explore an example of a model that decodes coherent sentences from a series of fMRI data.
 
 Lecture
-: [Slides](), 
+: [Slides](https://drive.google.com/file/d/1DqG8sqQJn0_I5BuBl85r_pALNozVcC2k/view?usp=sharing), 
 
 Coding full-version 
-: [code&data]()
+: [code&data](https://drive.google.com/drive/folders/1WZnysRU9OAUIlKW2cf8JeRoOUFLk_onY?usp=sharing)
 
 Reading
 :
