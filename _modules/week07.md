@@ -5,6 +5,7 @@ title: Week 7, Apr. 25
 ### Decoding sentences from brain activation
 
 We will introduce the concepts of word rate and beam search, among others. Additionally, we will explore an example of a model that decodes coherent sentences from a series of fMRI data.
+
 Lecture
 : [Slides](), 
 
