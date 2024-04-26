@@ -6,11 +6,9 @@ title: Week 8, Apr. 28
 
 We will introduce the concepts of temporal receptive field analysis, zero-shot classification, and other related topics. Additionally, we will explore the characteristics of electrocorticography (ECoG) data and develop a neural decoder to interpret speech from ECoG signals.
 
-Lecture
-: [Slides](), 
 
 Coding full-version 
-: [code&data]()
+: [code&data](https://drive.google.com/drive/folders/113kcGdOuFl8II_OzgZKw5jbFeTfFG_V3?usp=sharing)
 
 Reading
 :
